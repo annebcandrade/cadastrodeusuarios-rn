@@ -12,6 +12,7 @@ Link APi: https://api-register-node-users.vercel.app
 ## Para executar o Aplicativo na sua IDE siga os seguintes comandos:
 
 Clone este repositorio com o comando: Git Clone (Link do repositorio)
+
 1- Instale o React Navigation: npm install @react-navigation/native 
 
 2- instale dependências: npm install react-native-screens react-native-safe-area-context 
