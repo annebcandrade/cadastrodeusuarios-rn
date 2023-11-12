@@ -11,12 +11,18 @@ Link APi: https://api-register-node-users.vercel.app
 
 ## Para executar o Aplicativo na sua IDE siga os seguintes comandos:
 1- Instale o React Navigation: npm install @react-navigation/native 
+
 2- instale dependências: npm install react-native-screens react-native-safe-area-context 
+
 3- instale o Stack Navigation: npm install @react-navigation/native-stack 
+
 4- Instale as animações: npm install react-native-animatable —save 
+
 5- Instale o AXIOS para conectar com a APi: npm install Axios 
+
 6- Instale o aplicativo Expo Go no seu celular se quiser usá-lo para ver o aplicativo rodando
-5 - rode o aplicativo com o comando: “npx Expo start” no terminal e leia o qrcode com seu celular. 
+
+7- rode o aplicativo com o comando: “npx Expo start” no terminal e leia o qrcode com seu celular. 
 
 
 
