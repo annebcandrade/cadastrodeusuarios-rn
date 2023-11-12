@@ -48,4 +48,6 @@ Utilizei minha criatividade para que o aplicativo fosse agradável visualmente a
 Link do Deploy da aplicação de Cadastros de Ususarios Web: https://registerusers.vercel.app
 
 
-## Considerações Finais: Amei desenvolver cada parte desse desafio! Espero que gostem. Qualquer dúvida sobre o código ou aplicação, podem entrar em contato por e-mail ou WhatsApp. Grata pela oportunidade! 
+## Considerações Finais: 
+
+Amei desenvolver cada parte desse desafio! Espero que gostem. Qualquer dúvida sobre o código ou aplicação, podem entrar em contato por e-mail ou WhatsApp. Grata pela oportunidade! 
